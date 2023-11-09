@@ -1,4 +1,4 @@
-[Check Out My Offical Portfolio!] (https://mgcounts.com)</h1>
+(Check Out My Offical Portfolio!) [https://mgcounts.com]
 <br>
 <br>
 <hr>
