@@ -1,5 +1,7 @@
 <a href="https://mgcounts.com/"><h1>Check Out My Offical Portfolio!</h1></a>
-
+<br>
+<br>
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=mgcountss" alt="mgcountss" /></a> </p>
 
