@@ -1,4 +1,5 @@
-<h1>Check Out My Offical Portfolio! https://mgcounts.com</h1>
+<h1>Check Out My Official Portfolio!</h1>
+<h1>https://mgcounts.com</h1>
 <br>
 <br>
 <hr>
