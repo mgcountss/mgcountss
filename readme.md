@@ -1,6 +1,5 @@
 <h1>Check Out My Official Portfolio!</h1>
 <h1>https://mgcounts.com</h1>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
