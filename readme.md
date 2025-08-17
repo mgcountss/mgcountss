@@ -6,9 +6,6 @@
     <a href="https://codepen.io/sfmg11" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="sfmg11" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/18976711" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="18976711" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/straight from mg" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="straight from mg" height="30" width="40" /></a>
